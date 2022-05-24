@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name">Name: </string>
+    <string name="hp">Mobile No.: </string>
+    <string name="grp">Size of group:  </string>
+    <string name="date">Date: </string>
+    <string name="time">Time:  </string>
+    <string name="table">Select Table: </string>
+</resources>
